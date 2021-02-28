@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace NUnitTestProject1.Models
+﻿namespace NUnitTestProject1.Models
 {
     public class ExchangeRateResponseContent
     {
